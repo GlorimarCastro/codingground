@@ -1,0 +1,1 @@
+{"id":"verilog","ext":"v","version":"Icarus v0.9.2","compile":"iverilog -o main *.v","execute":"vvp main","preview":"","command":"","file":"/home/cg/src/samples/main.v","url":"compile_verilog_online.php","mode":"verilog"}
